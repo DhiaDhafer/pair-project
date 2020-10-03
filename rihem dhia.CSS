@@ -1,0 +1,27 @@
+body{
+	background-image: background-image: url("https://wallpaperfx.com/uploads/wallpapers/2014/08/05/14917/thumb_fantasy-tennis-ball.jpeg");
+}
+
+#t1 {
+}
+
+.total {
+	border: 2px solid black;
+}
+
+.product {
+	text-align: center;
+}
+.
+
+.card-body {
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-end;
+}
+.nav-item{
+cursor: pointer;
+}
+.col-md-1 m-2{
+	
+}
